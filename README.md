@@ -19,3 +19,5 @@ python3 main.py -d example -o oddtaxi-ep5-merged.png
 ```
 
 ![Example merge](example/oddtaxi-ep5-merged.png)
+
+Screenshot examples are from the 13th minute of the 5th episode of the anime [Odd Taxi](https://myanimelist.net/anime/46102/Odd_Taxi).
