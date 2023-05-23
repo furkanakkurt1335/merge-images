@@ -15,7 +15,7 @@ python3 main.py -d <directory> -o <output file>
 ## Example
 
 ```bash
-python3 main.py -d example -d example -o oddtaxi-ep5-merged.png
+python3 main.py -d example -o oddtaxi-ep5-merged.png
 ```
 
 ![Example merge](example/oddtaxi-ep5-merged.png)
